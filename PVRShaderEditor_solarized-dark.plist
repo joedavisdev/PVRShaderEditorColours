@@ -112,6 +112,343 @@
                     <integer>-16777216</integer>
                 </dict>
             </dict>
+            <key>GLSL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-1120043</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-4880128</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-8021760</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-2346449</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-10126461</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Cursor</key>
+                    <integer>-16777216</integer>
+                </dict>
+            </dict>
+            <key>PFX</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-1120043</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-4880128</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Value</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-2935166</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Semantic</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-9670204</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Tag</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-3454186</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-10126461</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Cursor</key>
+                    <integer>-16777216</integer>
+                </dict>
+            </dict>
+            <key>HLSL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-1120043</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-4880128</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-8021760</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-2346449</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-10126461</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Cursor</key>
+                    <integer>-16777216</integer>
+                </dict>
+            </dict>
+            <key>OpenCL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-1120043</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-4880128</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-8021760</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-2346449</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-10126461</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16304574</integer>
+                    <key>Cursor</key>
+                    <integer>-16777216</integer>
+                </dict>
+            </dict>
         </dict>
         <key>Editor</key>
         <dict>
@@ -152,7 +489,7 @@
             <key>GLSLES</key>
             <string />
             <key>TempDirectory</key>
-			<string>C:\</string>
+            <string>C:\</string>
             <key>AutoCompile</key>
             <true />
             <key>CompilerSelection</key>
@@ -169,9 +506,10 @@
             <key>OpenLastTabs</key>
             <false />
             <key>State</key>
-            <data>AAAA/wAAAAD9AAAAAAAAB4AAAAOpAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAW&#x0A;AG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA&#x0A;</data>
+            <data>AAAA/wAAAAD9AAAAAAAABQAAAAOZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAW&#x0A;AG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA&#x0A;</data>
             <key>Geometry</key>
-            <data>AdnQywABAAD////4////+AAAB4cAAAQXAAAHgAAAAKUAAAs6AAADqAAAAAACAA==&#x0A;</data>
+            <data>AdnQywABAAAAAAd4////+AAADIcAAAQHAAAAAAAAAAD////+/////gAAAAECAA==&#x0A;</data>
+
         </dict>
         <key>FindReplace</key>
         <dict>

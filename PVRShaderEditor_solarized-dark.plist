@@ -109,7 +109,7 @@
                     <key>Background</key>
                     <integer>-16304574</integer>
                     <key>Cursor</key>
-                    <integer>-16777216</integer>
+                    <integer>-1</integer>
                 </dict>
             </dict>
             <key>GLSL</key>
@@ -196,7 +196,7 @@
                     <key>Background</key>
                     <integer>-16304574</integer>
                     <key>Cursor</key>
-                    <integer>-16777216</integer>
+                    <integer>-1</integer>
                 </dict>
             </dict>
             <key>PFX</key>
@@ -272,7 +272,7 @@
                     <key>Background</key>
                     <integer>-16304574</integer>
                     <key>Cursor</key>
-                    <integer>-16777216</integer>
+                    <integer>-1</integer>
                 </dict>
             </dict>
             <key>HLSL</key>
@@ -359,7 +359,7 @@
                     <key>Background</key>
                     <integer>-16304574</integer>
                     <key>Cursor</key>
-                    <integer>-16777216</integer>
+                    <integer>-1</integer>
                 </dict>
             </dict>
             <key>OpenCL</key>
@@ -446,7 +446,7 @@
                     <key>Background</key>
                     <integer>-16304574</integer>
                     <key>Cursor</key>
-                    <integer>-16777216</integer>
+                    <integer>-1</integer>
                 </dict>
             </dict>
         </dict>
@@ -489,7 +489,7 @@
             <key>GLSLES</key>
             <string />
             <key>TempDirectory</key>
-            <string>C:\</string>
+            <string>/tmp/</string>
             <key>AutoCompile</key>
             <true />
             <key>CompilerSelection</key>

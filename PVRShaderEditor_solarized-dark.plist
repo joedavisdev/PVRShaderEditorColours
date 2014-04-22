@@ -9,9 +9,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -20,7 +20,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -30,9 +30,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -41,9 +41,9 @@
                 <key>Keyword</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-4880128</integer>
+                    <integer>-14251054</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -52,7 +52,7 @@
                 <key>Built-in Function</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-8021760</integer>
                     <key>Bold</key>
@@ -63,9 +63,9 @@
                 <key>Built-in Type</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-14251054</integer>
+                    <integer>-4880128</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -74,7 +74,7 @@
                 <key>Preprocessor</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-2346449</integer>
                     <key>Bold</key>
@@ -85,9 +85,9 @@
                 <key>Comment</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-10126461</integer>
+                    <integer>-10981771</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -96,7 +96,7 @@
                 <key>Number</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-13983336</integer>
                     <key>Bold</key>
@@ -107,7 +107,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -117,9 +117,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -128,9 +128,9 @@
                 <key>Keyword</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-4880128</integer>
+                    <integer>-14251054</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -139,7 +139,7 @@
                 <key>Built-in Function</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-8021760</integer>
                     <key>Bold</key>
@@ -150,9 +150,9 @@
                 <key>Built-in Type</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-14251054</integer>
+                    <integer>-4880128</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -161,7 +161,7 @@
                 <key>Preprocessor</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-2346449</integer>
                     <key>Bold</key>
@@ -172,9 +172,9 @@
                 <key>Comment</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-10126461</integer>
+                    <integer>-10981771</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -183,7 +183,7 @@
                 <key>Number</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-13983336</integer>
                     <key>Bold</key>
@@ -194,7 +194,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -204,9 +204,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -215,9 +215,9 @@
                 <key>Keyword</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-4880128</integer>
+                    <integer>-14251054</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -226,7 +226,7 @@
                 <key>Value</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-2935166</integer>
                     <key>Bold</key>
@@ -237,7 +237,7 @@
                 <key>Semantic</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-9670204</integer>
                     <key>Bold</key>
@@ -248,7 +248,7 @@
                 <key>Tag</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-3454186</integer>
                     <key>Bold</key>
@@ -259,9 +259,9 @@
                 <key>Comment</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-10126461</integer>
+                    <integer>-10981771</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -270,7 +270,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -280,9 +280,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -291,9 +291,9 @@
                 <key>Keyword</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-4880128</integer>
+                    <integer>-14251054</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -302,7 +302,7 @@
                 <key>Built-in Function</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-8021760</integer>
                     <key>Bold</key>
@@ -313,9 +313,9 @@
                 <key>Built-in Type</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-14251054</integer>
+                    <integer>-4880128</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -324,7 +324,7 @@
                 <key>Preprocessor</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-2346449</integer>
                     <key>Bold</key>
@@ -335,9 +335,9 @@
                 <key>Comment</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-10126461</integer>
+                    <integer>-10981771</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -346,7 +346,7 @@
                 <key>Number</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-13983336</integer>
                     <key>Bold</key>
@@ -357,7 +357,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -367,9 +367,9 @@
                 <key>Code</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-1120043</integer>
+                    <integer>-8153962</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -378,9 +378,9 @@
                 <key>Keyword</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-4880128</integer>
+                    <integer>-14251054</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -389,7 +389,7 @@
                 <key>Built-in Function</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-8021760</integer>
                     <key>Bold</key>
@@ -400,9 +400,9 @@
                 <key>Built-in Type</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-14251054</integer>
+                    <integer>-4880128</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -411,7 +411,7 @@
                 <key>Preprocessor</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-2346449</integer>
                     <key>Bold</key>
@@ -422,9 +422,9 @@
                 <key>Comment</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
-                    <integer>-10126461</integer>
+                    <integer>-10981771</integer>
                     <key>Bold</key>
                     <false />
                     <key>Underline</key>
@@ -433,7 +433,7 @@
                 <key>Number</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Foreground</key>
                     <integer>-13983336</integer>
                     <key>Bold</key>
@@ -444,7 +444,7 @@
                 <key>Global</key>
                 <dict>
                     <key>Background</key>
-                    <integer>-16304574</integer>
+                    <integer>-16766154</integer>
                     <key>Cursor</key>
                     <integer>-1</integer>
                 </dict>
@@ -465,7 +465,7 @@
             <key>HighlightFindResults</key>
             <true />
             <key>CursorMatchColour</key>
-            <integer>-7102047</integer>
+            <integer>-16304574</integer>
             <key>FindResultColour</key>
             <integer>-10981771</integer>
             <key>CloseTabsMiddleMouse</key>

@@ -112,6 +112,93 @@
                     <integer>-1</integer>
                 </dict>
             </dict>
+            <key>GLSL ES</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-8153962</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-8021760</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-4880128</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-2346449</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-10981771</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-16766154</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
             <key>GLSL</key>
             <dict>
                 <key>Code</key>
@@ -506,9 +593,9 @@
             <key>OpenLastTabs</key>
             <false />
             <key>State</key>
-            <data>AAAA/wAAAAD9AAAAAAAABQAAAAOZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAW&#x0A;AG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA&#x0A;</data>
+            <data></data>
             <key>Geometry</key>
-            <data>AdnQywABAAAAAAd4////+AAADIcAAAQHAAAAAAAAAAD////+/////gAAAAECAA==&#x0A;</data>
+            <data></data>
 
         </dict>
         <key>FindReplace</key>

@@ -28,3 +28,4 @@ Colour schemes
 --------------
 
 Based on Ethan Schoonover's <a href="http://ethanschoonover.com/solarized">Solarized (Dark).</a>
+![Solarized (Dark)](http://oi57.tinypic.com/2d9i8h.jpg)

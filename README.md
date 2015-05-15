@@ -1,13 +1,11 @@
-pvr-plists
+PVRShaderEditorColours
 ==========
 
-A collection of preconfigured *.plist files for PowerVR Graphics SDK Utilities
+Colour schemes for PVRShaderEditor & PVRShaderEditComponent (used in PVRTrace and PVRShaman).
 
-Solarized (Dark) Colour Scheme
+Installation
 --------------
-This modification will set the colour scheme of the shader editor module (used by PVRShaderEditor, PVRShaman & PVRTrace) to <a href="http://ethanschoonover.com/solarized">Solarized (Dark).</a>
-<br><b>Known issue:</b> The *.plist's temporary directory (used for storing the output of the CLI shader profiling compilers) is '/tmp/' which will work on OS X & Linux, but may cause problems on Windows. The directory can be altered through PVRShaderEditorGUI's "Preferences"-->"Compiler Settings" tab, or by editing the *.plist directly.
-
+PVRShaderEditor_solarized-dark.plist example below:
 <ol>
 <li>Rename the file</li>
   <ul>
@@ -20,3 +18,13 @@ This modification will set the colour scheme of the shader editor module (used b
   <li><b>OS X & Linux:</b> ~/.pvrconfig/Imagination\ Technologies/</li>
   </ul>
 </ol>
+Known issues
+--------------
+The *.plist's temporary directory (used for storing the output of the CLI shader profiling compilers) is '/tmp/' which will work on OS X & Linux, but may cause problems on Windows. The directory can be altered through PVRShaderEditorGUI's "Preferences"-->"Compiler Settings" tab, or by editing the *.plist directly.
+
+Colour schemes
+==========
+<a href="https://github.com/joemdavis/PVRShaderEditorColours/blob/master/PVRShaderEditor_solarized-dark.plist">Solarized (Dark)</a>
+--------------
+
+Based on Ethan Schoonover's <a href="http://ethanschoonover.com/solarized">Solarized (Dark).</a>

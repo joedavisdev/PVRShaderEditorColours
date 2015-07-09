@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Colours</key>
+        <dict>
+            <key>Plain Text</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>GLSL:ES</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6638638</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2776693</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-8604068</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>GLSL ES</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6638638</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2776693</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-8604068</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>GLSL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6638638</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2776693</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-8604068</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>PFX</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Value</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2935166</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Semantic</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-9670204</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Tag</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-3454186</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>HLSL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6638638</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2776693</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-8604068</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+            <key>OpenCL</key>
+            <dict>
+                <key>Code</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-1184275</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Keyword</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-14251054</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Function</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6638638</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Built-in Type</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-2776693</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Preprocessor</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-8604068</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Comment</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-6907236</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Number</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Foreground</key>
+                    <integer>-13983336</integer>
+                    <key>Bold</key>
+                    <false />
+                    <key>Underline</key>
+                    <false />
+                </dict>
+                <key>Global</key>
+                <dict>
+                    <key>Background</key>
+                    <integer>-14341071</integer>
+                    <key>Cursor</key>
+                    <integer>-1</integer>
+                </dict>
+            </dict>
+        </dict>
+        <key>Editor</key>
+        <dict>
+            <key>FontFace</key>
+            <string>Courier New</string>
+            <key>FontSize</key>
+            <integer>12</integer>
+            <key>TreatTabAsSpace</key>
+            <false />
+            <key>TabSpaceSize</key>
+            <integer>4</integer>
+            <key>PerformCursorMatch</key>
+            <true />
+            <key>HighlightFindResults</key>
+            <true />
+            <key>CursorMatchColour</key>
+            <integer>-16304574</integer>
+            <key>FindResultColour</key>
+            <integer>-6907236</integer>
+            <key>CloseTabsMiddleMouse</key>
+            <false />
+            <key>TabSize</key>
+            <integer>4</integer>
+            <key>ShowWhitespace</key>
+            <false />
+        </dict>
+        <key>Output</key>
+        <dict>
+            <key>ShouldFormat</key>
+            <true />
+            <key>Error</key>
+            <integer>-65536</integer>
+            <key>Warning</key>
+            <integer>-1943040</integer>
+        </dict>
+        <key>Compiler</key>
+        <dict>
+            <key>GLSLES</key>
+            <string />
+            <key>TempDirectory</key>
+            <string>/tmp/</string>
+            <key>AutoCompile</key>
+            <true />
+            <key>CompilerSelection</key>
+            <integer>0</integer>
+            <key>OutputFontSize</key>
+            <integer>10</integer>
+            <key>CustomCompHistory</key>
+            <array>
+                <string />
+            </array>
+        </dict>
+        <key>General</key>
+        <dict>
+            <key>OpenLastTabs</key>
+            <false />
+            <key>State</key>
+            <data></data>
+            <key>Geometry</key>
+            <data></data>
+
+        </dict>
+        <key>FindReplace</key>
+        <dict>
+            <key>XPos</key>
+            <integer>1253</integer>
+            <key>YPos</key>
+            <integer>652</integer>
+            <key>Width</key>
+            <integer>378</integer>
+            <key>Height</key>
+            <integer>196</integer>
+            <key>Opts</key>
+            <integer>16</integer>
+        </dict>
+        <key>DebugArea</key>
+        <dict>
+            <key>Visible</key>
+            <false />
+            <key>Height</key>
+            <integer>246</integer>
+        </dict>
+        <key>ASMArea</key>
+        <dict>
+            <key>Visible</key>
+            <false />
+            <key>Width</key>
+            <integer>526</integer>
+        </dict>
+        <key>PVRShaderEditor 2.3</key>
+        <dict>
+            <key>About</key>
+            <dict>
+                <key>ShowSplash</key>
+                <false />
+            </dict>
+        </dict>
+        <key>Open</key>
+        <dict>
+            <key>Recent files</key>
+            <array>
+            </array>
+        </dict>
+    </dict>
+</plist>
